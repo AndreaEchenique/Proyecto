@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  font-family: "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.title {
+  color: #738f93;
+  font-size: 30px;
+  font-family: sans-serif;
+  margin-bottom: 0;
+}
+.linkcurso {
+  color: #738f93;
+  font-size: 14px;
+  font-family: sans-serif;
+  margin-bottom: 0;
+}
+.info {
+  color: #738f93;
+  font-size: 15px;
+  font-family: sans-serif;
+  margin-bottom: 0;
+}
+.cursoshome {
+  color: #738f93;
+  font-size: 20px;
+  font-family: sans-serif;
+  
+}
+
+.img-home {
+  width: 500px;
+  padding: 50px;
+}
+
+.btn-search {
+  background-color: #1ba94c;
+  color: #ffffff;
+  box-shadow: 0 4px 12px rgb(27 169 76 / 50%);
+  font-size: 18.005px;
+  padding-left: 1.528em;
+  padding-right: 1.528em;
+  padding-top: 0;
+  padding-bottom: 0;
+  min-height: 2.778em;
+  border: none;
+  cursor: pointer;
+}
+.btn-marketing {
+  background-color: #981ba9;
+  color: #ffffff;
+  box-shadow: 0 4px 12px rgba(141, 27, 169, 0.5);
+  font-size: 18.005px;
+  padding-left: 1.528em;
+  padding-right: 1.528em;
+  padding-top: 0;
+  padding-bottom: 0;
+  min-height: 2.778em;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.btn-programacion {
+  background-color: #c81b69;
+  color: #ffffff;
+  box-shadow: 0 4px 12px rgba(169, 27, 122, 0.5);
+  font-size: 18.005px;
+  padding-left: 1.528em;
+  padding-right: 1.528em;
+  padding-top: 2;
+  padding-bottom: 0;
+  min-height: 2.778em;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+ 
+  
+}
+.btn-negocios {
+  background-color: #1bc87a;
+  color: #ffffff;
+  box-shadow: 0 4px 12px rgba(27, 169, 164, 0.5);
+  font-size: 18.005px;
+  padding-left: 1.528em;
+  padding-right: 1.528em;
+  padding-top: 0;
+  padding-bottom: 0;
+  min-height: 2.778em;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
